@@ -16,6 +16,10 @@ Sample application
 ------------------
 The sample application can also be installed from the Play Store.
 
+  <a href="https://play.google.com/store/apps/details?id=com.honu.aloha.sample">
+    <img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+  </a>
+
 Library
 -------
 See the [android-aloha](https://github.com/bdiegel/android-aloha) project for the source code.
