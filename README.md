@@ -24,8 +24,6 @@ Library
 -------
 See the [android-aloha](https://github.com/bdiegel/android-aloha) project for the source code.
 
-Library Usage
--------------
 The library is available on JCenter. Add the dependency to your build.gradle file:
 
     dependencies {
